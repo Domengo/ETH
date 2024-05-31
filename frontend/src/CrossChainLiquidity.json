@@ -1,0 +1,30 @@
+{
+    "liquidityPools": [
+        {
+            "name": "Pool A",
+            "tokens": [
+                {
+                    "symbol": "ETH",
+                    "address": "0x1234567890abcdef"
+                },
+                {
+                    "symbol": "BTC",
+                    "address": "0xabcdef1234567890"
+                }
+            ]
+        },
+        {
+            "name": "Pool B",
+            "tokens": [
+                {
+                    "symbol": "USDT",
+                    "address": "0x0987654321fedcba"
+                },
+                {
+                    "symbol": "DAI",
+                    "address": "0xfedcba0987654321"
+                }
+            ]
+        }
+    ]
+}
